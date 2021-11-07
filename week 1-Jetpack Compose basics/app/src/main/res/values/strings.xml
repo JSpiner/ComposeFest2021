@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codelab1</string>
+    <string name="show_collapse">닫기</string>
+    <string name="show_expand">더보기</string>
+</resources>
